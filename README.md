@@ -1,4 +1,4 @@
-# Qubly_clone
+# Qubly Clone
 Simple Qubly website clone.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
